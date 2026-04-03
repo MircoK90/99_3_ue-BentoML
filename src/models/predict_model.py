@@ -32,3 +32,4 @@ if __name__ == "__main__":
 
     result = predict_model(features)
     print(f"prediction : {result[0]}")
+1
